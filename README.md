@@ -37,10 +37,5 @@ Dive into the depths of the ocean where survival isn't just a challenge - it's a
 
 This repository will house the development of Aquatic Survival's core systems and features. Stay tuned for updates as we implement these S-tier features and create the ultimate underwater survival experience!
 
-## 🤝 Contributing
-
-Interested in contributing to Aquatic Survival? We welcome developers, designers, and ocean enthusiasts to help make this vision a reality!
-
----
 
 *Dive deep, survive longer, explore further.*
